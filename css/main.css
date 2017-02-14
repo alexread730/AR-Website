@@ -1,0 +1,142 @@
+/***************************************
+GENERAL
+****************************************/
+.home-div {
+	min-height: 100px;
+	width: 40%;
+	min-width: 30px;
+	margin: 200px 50px;
+	border-radius: 20px;
+	display: inline-block;
+	}
+
+
+#description img {
+	height: 350px;
+	width: 230px;
+	margin: 0 25% 0 25%;
+	border-radius: 50%;	
+
+}
+
+#description{
+	float: right;
+}
+
+#home {
+	float: left;
+}
+
+div h3 {
+	padding: 10px 20px 0 20px;
+}
+
+.page-pic {
+	width: 75%;
+	margin: 200px 50px;
+	min-width: 300px;
+	max-width: 400px;
+
+}
+
+.pic-div {
+	width: 75%;
+
+}
+
+#table-pics {
+	margin: 200px 50px;
+	display: inline-block;
+}
+
+#people-table td {
+	width: 75%;
+}
+
+
+
+
+/***************************************
+HEADING
+****************************************/
+
+#logo {
+	float:left;
+	text-align: center;
+	text-decoration: none;
+}
+
+header{
+	float: left;
+	margin: 0 0 30px 0;
+	width: 100%;
+	position: fixed;
+	border-bottom: 5px solid purple;
+	border-top: : 5px solid purple;
+}
+
+h1 {
+	font-size: 30px;
+	margin: 20px;
+}
+
+h2 {
+	font-size: 20px;
+	margin: 20px;
+}
+
+/***************************************
+NAVIGATION
+****************************************/
+
+nav {
+	float: right;
+	margin: 25px 30px 0 0;
+	text-decoration: none;
+	
+}
+
+nav li {
+	display: inline-block;
+	padding: 10px 30px 0 0; 
+	font-size: 20px;
+
+
+}
+/***************************************
+FOOTER
+****************************************/
+
+/***************************************
+COLOR
+****************************************/
+ 
+
+.home-div {
+	background-color: #1F588B;
+
+}
+
+#description {
+	background-color: #1F588B;
+}
+
+header {
+	background-color: #1F588B;
+}
+
+nav {
+	color: #fff;
+}
+
+h1 {
+	color: #fff;
+}
+
+h2 {
+	color: #fff;
+}
+
+h3 {
+	color: #fff;
+}
